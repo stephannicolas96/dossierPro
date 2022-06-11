@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-11T14:53:35.431Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="fMS3XBuGSw2yW6g-VBQ3" version="19.0.3" type="github" pages="7">
+<mxfile modified="2022-06-11T14:54:10.862Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="3Yc865PFughqbZzY-_sl" version="19.0.3" type="github" pages="7">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Archi">
     <mxGraphModel dx="834" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -236,13 +236,13 @@
             <mxPoint x="430" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EaBxQI_xwLweBcyJRziy-7" value="flux sortant" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=5;endArrow=classic;endFill=1;targetPerimeterSpacing=5;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=none;startFill=0;strokeWidth=2;fontFamily=Verdana;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingRight=0;spacingLeft=40;" edge="1" parent="1">
+        <mxCell id="EaBxQI_xwLweBcyJRziy-7" value="flux descendant" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=5;endArrow=classic;endFill=1;targetPerimeterSpacing=5;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=none;startFill=0;strokeWidth=2;fontFamily=Verdana;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingRight=0;spacingLeft=40;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="88" y="350" as="sourcePoint" />
             <mxPoint x="158" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EaBxQI_xwLweBcyJRziy-8" value="flux entrant" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=5;endArrow=classic;endFill=1;targetPerimeterSpacing=5;fillColor=#f8cecc;strokeColor=#b85450;startArrow=none;startFill=0;strokeWidth=2;fontFamily=Verdana;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingRight=0;spacingLeft=40;" edge="1" parent="1">
+        <mxCell id="EaBxQI_xwLweBcyJRziy-8" value="flux montant" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=5;endArrow=classic;endFill=1;targetPerimeterSpacing=5;fillColor=#f8cecc;strokeColor=#b85450;startArrow=none;startFill=0;strokeWidth=2;fontFamily=Verdana;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingRight=0;spacingLeft=40;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="88" y="370" as="sourcePoint" />
             <mxPoint x="158" y="370" as="targetPoint" />
