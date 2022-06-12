@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-12T17:41:06.607Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="Gaw52IIzQqAHAb4ukf6-" version="19.0.3" type="github" pages="8">
+<mxfile modified="2022-06-12T17:57:01.220Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="uHGYwxBaIiQhn49kiAVs" version="19.0.3" type="github" pages="8">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Archi">
     <mxGraphModel dx="1209" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -632,9 +632,6 @@
         </mxCell>
         <mxCell id="tflLPfQPJ6h74tn7f9xn-69" value="&lt;h3 style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;Visualisation des flux audio&lt;/font&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="tflLPfQPJ6h74tn7f9xn-57">
           <mxGeometry x="40" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tflLPfQPJ6h74tn7f9xn-84" value="&lt;h3 style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; background-color: rgb(248, 249, 250);&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Verdana&quot;&gt;Client 1 est&amp;nbsp; en &lt;span style=&quot;font-size: 14.04px;&quot;&gt;discussion&lt;/span&gt;&amp;nbsp;avec Client 2&amp;nbsp; et lui partage son écran.&lt;/font&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-185" y="180" width="520" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
