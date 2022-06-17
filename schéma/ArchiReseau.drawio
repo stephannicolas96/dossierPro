@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-17T20:49:13.600Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="xMw5h7RAiFbRRHh0oxot" version="20.0.1" type="github" pages="10">
+<mxfile modified="2022-06-17T20:50:43.174Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="A3mFufZH6hNCzA97v7r5" version="20.0.1" type="github" pages="10">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Archi">
     <mxGraphModel dx="1209" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -786,6 +786,16 @@
             <mxPoint x="1378" y="149" as="sourcePoint" />
             <mxPoint x="1440" y="122.5" as="targetPoint" />
             <mxPoint x="-43" y="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCVbJgjzwTML6c4NwQRk-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;strokeColor=#0062B8;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OCVbJgjzwTML6c4NwQRk-7" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Verdana&quot;&gt;Champ de vision&lt;br&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=#0062B8;strokeColor=#0062B8;strokeWidth=4;" edge="1" parent="1" target="OCVbJgjzwTML6c4NwQRk-6">
+          <mxGeometry x="-1" y="110" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1394" y="179" as="sourcePoint" />
+            <mxPoint x="1605" y="157.5" as="targetPoint" />
+            <mxPoint x="-110" y="107" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
