@@ -1,6 +1,6 @@
-<mxfile modified="2022-06-17T20:50:43.174Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="A3mFufZH6hNCzA97v7r5" version="20.0.1" type="github" pages="10">
+<mxfile modified="2022-06-25T13:30:06.433Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="4up1LFFON_427XKPFv_9" version="20.0.1" type="github" pages="10">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Archi">
-    <mxGraphModel dx="1209" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="818" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,7 +331,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pESThc8IzJtPoRawGZMi" name="ArchiRéseaux">
-    <mxGraphModel dx="1209" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="908" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -377,7 +377,7 @@
             <mxPoint x="360" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i34brSMeZ09ndF8rUUBS-34" value="Liaison Websocket" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Verdana;align=left;spacing=0;spacingRight=0;spacingLeft=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
+        <mxCell id="i34brSMeZ09ndF8rUUBS-34" value="Liaison Websocket + HTTPS" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Verdana;align=left;spacing=0;spacingRight=0;spacingLeft=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="370" as="sourcePoint" />
             <mxPoint x="10" y="370" as="targetPoint" />
@@ -425,11 +425,17 @@
         <mxCell id="lQUY7VhDSAmw7bdiVElp-9" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;" parent="lQUY7VhDSAmw7bdiVElp-6" vertex="1">
           <mxGeometry width="50" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="YsS6E5bcEtS5MtJrqZ3b-2" value="Serveur STUN" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=-128;image;image=img/lib/active_directory/generic_server.svg;fontFamily=Verdana;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="530" width="52" height="92.85" as="geometry" />
+        </mxCell>
+        <mxCell id="YsS6E5bcEtS5MtJrqZ3b-8" value="Serveur TURN" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=-128;image;image=img/lib/active_directory/generic_server.svg;fontFamily=Verdana;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="52" height="92.85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="j86ApQk66UkSsxV92oqd" name="ArchiProjet">
-    <mxGraphModel dx="1209" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="818" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
