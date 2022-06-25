@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-25T14:34:42.984Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="drkpGUWifa9yIHN966ct" version="20.0.1" type="github" pages="10">
+<mxfile modified="2022-06-25T14:34:52.346Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="l0Fr9kxmuiXPFscnJ_De" version="20.0.1" type="github" pages="10">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Archi">
     <mxGraphModel dx="818" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -455,7 +455,7 @@
             <mxPoint x="358.23014671828287" y="452.8751667253214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YsS6E5bcEtS5MtJrqZ3b-20" value="Liaison de secours Peer To Peer WebRTC" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Verdana;align=left;spacing=0;spacingRight=0;spacingLeft=50;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+        <mxCell id="YsS6E5bcEtS5MtJrqZ3b-20" value="Liaison de secours Peer To Peer WebRTC" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Verdana;align=left;spacing=0;spacingRight=0;spacingLeft=50;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="410" as="sourcePoint" />
             <mxPoint x="-40" y="410" as="targetPoint" />
