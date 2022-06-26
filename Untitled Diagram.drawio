@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T11:15:02.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="Dhj-cKH_IPgrlYRhO_bm" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T12:21:17.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="woowBq3D7JxK4Qlz6RAx" version="20.0.3" type="github">
   <diagram id="NVLdFYsQr7sc-6fEquGn" name="Page-1">
-    <mxGraphModel dx="670" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="434" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
         <mxCell id="HoprCaAgaAyW08Zz6HpF-5" value="Nicolas Stephan&lt;br&gt;Apprenti&lt;br&gt;Ingénieur Informatique" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="HoprCaAgaAyW08Zz6HpF-3" vertex="1">
           <mxGeometry x="170" y="30" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2yvcrKg80x7I_Jf2C4ww-1" value="Victor Robin&lt;br&gt;Apprenti&lt;br&gt;Ingénieur Informatique" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="HoprCaAgaAyW08Zz6HpF-3">
+        <mxCell id="2yvcrKg80x7I_Jf2C4ww-1" value="Victor Robin&lt;br&gt;Apprenti&lt;br&gt;Ingénieur Informatique" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="HoprCaAgaAyW08Zz6HpF-3" vertex="1">
           <mxGeometry x="90" y="100" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HoprCaAgaAyW08Zz6HpF-7" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HoprCaAgaAyW08Zz6HpF-1" target="HoprCaAgaAyW08Zz6HpF-3" edge="1">
@@ -36,10 +36,10 @@
             <mxRectangle y="240" width="120" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HoprCaAgaAyW08Zz6HpF-9" value="Khadija Dally&lt;br&gt;Apprentie&lt;br&gt;Commercial" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="HoprCaAgaAyW08Zz6HpF-8" vertex="1">
+        <mxCell id="HoprCaAgaAyW08Zz6HpF-9" value="Khadija Dally&lt;br&gt;Apprentie&lt;br&gt;Commerciale" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="HoprCaAgaAyW08Zz6HpF-8" vertex="1">
           <mxGeometry x="10" y="30" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HoprCaAgaAyW08Zz6HpF-10" value="Merveille Moussounda&lt;br&gt;Apprentie&lt;br&gt;Commercial" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="HoprCaAgaAyW08Zz6HpF-8" vertex="1">
+        <mxCell id="HoprCaAgaAyW08Zz6HpF-10" value="Merveille Moussounda&lt;br&gt;Apprentie&lt;br&gt;Commerciale" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="HoprCaAgaAyW08Zz6HpF-8" vertex="1">
           <mxGeometry x="170" y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HoprCaAgaAyW08Zz6HpF-11" value="Yanis Gherous&lt;br&gt;Apprenti&lt;br&gt;Commercial" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="HoprCaAgaAyW08Zz6HpF-8" vertex="1">
